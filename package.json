@@ -2,8 +2,8 @@
   "name": "react-python",
   "version": "1.0.0",
   "scripts": {
-    "dev": "npx parcel './beginner-html-site-styled-gh-pages/src/*.html'",
-    "build": "npx parcel build --public-url '.' './beginner-html-site-styled-gh-pages/src/*.html'"
+    "dev": "npx parcel './beginner-html-site-styled-gh-pages/*.html'",
+    "build": "npx parcel build --public-url '.' './beginner-html-site-styled-gh-pages/*.html'"
   },
   "devDependencies": {
     "parcel": "^2.14.4"
