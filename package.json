@@ -1,5 +1,5 @@
 {
-  "name": "react-demo",
+  "name": "react-python",
   "version": "1.0.0",
   "scripts": {
     "dev": "npx parcel './beginner-html-site-styled-gh-pages/src/*.html'",
